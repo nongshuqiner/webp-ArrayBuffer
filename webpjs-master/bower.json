@@ -1,0 +1,21 @@
+{
+  "name": "webpjs",
+  "version": "0.0.2",
+  "authors": [
+    "Philippe Loctaux <loctauxphilippe@gmail.com>"
+  ],
+  "main": "webpjs-0.0.2.min.js",
+  "keywords": [
+    "webp",
+    "webpjs"
+  ],
+  "license": "BSD",
+  "homepage": "http://webpjs.appspot.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
